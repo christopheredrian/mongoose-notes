@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-notes",
+  "version": "1.0.0",
+  "description": "My notes for using Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopheredrian/mongoose-notes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christopheredrian/mongoose-notes/issues"
+  },
+  "homepage": "https://github.com/christopheredrian/mongoose-notes#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "mongoose": "^5.1.2"
+  }
+}
